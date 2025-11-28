@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+    <html>
+    <title>Secondpage</title>
+    <link rel="stylesheet" href="project.css">
+
+    <body id="body">
+        <div id="div1">
+
+        </div>
+        <script src="project.js"></script>
+        <script>
+            function showLoader(){
+                document.getElementById("div1").innerHTML = '<img src="loader.gif" id="gif" alt="Randomimage">';
+            }
+            function pageContent(){
+                setTimeout(function(){
+                    let html = "<div id='div'><h1 id='quote'><b>Unlock Your Full Testing Potential</b></h1></div><div class='div2'><button id='btn2' onclick='openpage2()'><b><i>Click to Continue</i></b></button></div>"
+                    document.getElementById("div1").innerHTML = html
+                },4000);
+            }
+            showLoader();
+            pageContent();
+        </script>
+    </body>
+
+    </html>

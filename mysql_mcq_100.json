@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Which SQL statement is used to fetch data from a database?",
+    "options": ["SELECT", "GET", "FETCH", "OPEN"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which clause is used to filter records in SQL?",
+    "options": ["WHERE", "HAVING", "FILTER", "ORDER BY"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which command is used to remove a table and its data?",
+    "options": ["DROP TABLE", "DELETE TABLE", "REMOVE TABLE", "TRUNCATE TABLE"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which SQL keyword is used to sort the result-set?",
+    "options": ["ORDER BY", "SORT BY", "GROUP BY", "FILTER BY"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which function returns the number of rows in a group?",
+    "options": ["COUNT()", "SUM()", "TOTAL()", "ROWCOUNT()"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which clause groups rows that have the same values into summary rows?",
+    "options": ["GROUP BY", "ORDER BY", "HAVING", "WHERE"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which statement is used to add new rows into a table?",
+    "options": ["INSERT INTO", "ADD INTO", "CREATE ROW", "NEW ROW"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which SQL command is used to remove all records from a table, but keeps the table structure?",
+    "options": ["TRUNCATE TABLE", "DELETE FROM", "DROP TABLE", "REMOVE ALL"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which constraint ensures all values in a column are unique?",
+    "options": ["UNIQUE", "PRIMARY KEY", "FOREIGN KEY", "CHECK"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which command is used to change existing records in a table?",
+    "options": ["UPDATE", "MODIFY", "CHANGE", "SET"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which datatype would you use for a large text field?",
+    "options": ["TEXT", "VARCHAR", "CHAR", "BLOB"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which index type is typically used for full-text searches in MySQL?",
+    "options": ["FULLTEXT", "BTREE", "HASH", "RTREE"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which statement is used to create a new database?",
+    "options": ["CREATE DATABASE", "NEW DATABASE", "MAKE DATABASE", "INIT DATABASE"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which command is used to give privileges to a user?",
+    "options": ["GRANT", "ALLOW", "GIVE", "SET PERMISSIONS"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which storage engine is the default in modern MySQL versions for transactional support?",
+    "options": ["InnoDB", "MyISAM", "CSV", "MEMORY"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which statement is used to remove duplicate rows from a result set?",
+    "options": ["Use DISTINCT in SELECT", "DELETE DISTINCT", "REMOVE DUPLICATES", "SELECT UNIQUE"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which clause is used to filter groups after GROUP BY?",
+    "options": ["HAVING", "WHERE", "FILTER", "GROUP_WHERE"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which SQL keyword is used to combine rows from two or more tables?",
+    "options": ["JOIN", "CONNECT", "COMBINE", "MERGE"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which command is used to rename a table in SQL?",
+    "options": ["RENAME TABLE", "CHANGE TABLE", "ALTER TABLE RENAME", "SET TABLE NAME"],
+    "answer_index": 0
+  },
+  {
+    "question": "What does the PRIMARY KEY constraint ensure?",
+    "options": ["Unique + Not Null", "Only Unique", "Only Not Null", "Checks Condition"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which function returns the highest value in a column?",
+    "options": ["MAX()", "TOP()", "HIGH()", "LARGEST()"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which SQL operator tests for a value within a specified set?",
+    "options": ["IN", "BETWEEN", "LIKE", "SET"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which clause is used to limit the number of rows returned?",
+    "options": ["LIMIT", "ROWCOUNT", "TOP", "RANGE"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which SQL statement is used to define or modify database objects?",
+    "options": ["DDL", "DML", "DCL", "TCL"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which SQL function is used to get the current date?",
+    "options": ["CURRENT_DATE()", "TODAY()", "DATE()", "NOWDATE()"],
+    "answer_index": 0
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Who developed the C programming language?",
+    "options": ["Dennis Ritchie", "Bjarne Stroustrup", "James Gosling", "Ken Thompson"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the file extension for C source files?",
+    "options": [".c", ".cpp", ".cs", ".cc"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which function is used to print output to the console in C?",
+    "options": ["printf", "cout", "println", "print"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which header file is required for printf function?",
+    "options": ["stdio.h", "conio.h", "stdlib.h", "string.h"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which operator is used to get the address of a variable?",
+    "options": ["&", "*", "->", "%"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which data type is used to store a single character in C?",
+    "options": ["char", "string", "Character", "text"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which loop will execute at least once?",
+    "options": ["do...while", "for", "while", "foreach"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which operator is used to compare if two values are equal?",
+    "options": ["==", "=", "equals", "==="],
+    "answer_index": 0
+  },
+  {
+    "question": "Which function is used to allocate memory dynamically in C?",
+    "options": ["malloc", "new", "alloc", "calloc"],
+    "answer_index": 0
+  },
+  {
+    "question": "What does 'EOF' stand for in C standard IO?",
+    "options": ["End Of File", "End Of Function", "Error Or Flag", "End Of Format"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the result of 5 / 2 in C when both are integers?",
+    "options": ["2 (integer division)", "2.5", "3", "0"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which operator is used to access members of a structure through a pointer?",
+    "options": ["->", ".", "*", "&"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which storage class specifier makes a variable local to the file?",
+    "options": ["static", "auto", "extern", "register"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which function copies a string in C?",
+    "options": ["strcpy", "strncpy", "strcat", "strcmp"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword is used to define a constant using the preprocessor?",
+    "options": ["#define", "const", "static const", "constexpr"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which operator increases a variable's value by 1?",
+    "options": ["++", "--", "+=", "^="],
+    "answer_index": 0
+  },
+  {
+    "question": "Which function terminates program execution immediately?",
+    "options": ["exit", "abort", "return", "stop"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which header file defines malloc and free?",
+    "options": ["stdlib.h", "malloc.h", "stdio.h", "string.h"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword is used to create a user-defined data type in C?",
+    "options": ["typedef", "define", "struct", "static"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the size of an int in most 32-bit systems?",
+    "options": ["4 bytes", "2 bytes", "8 bytes", "1 byte"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which escape sequence is used for a new line in C?",
+    "options": ["\\n", "\\t", "\\r", "\\b"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the default value of uninitialized local variables in C?",
+    "options": ["Garbage value", "0", "NULL", "Undefined"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which operator is used to dereference a pointer?",
+    "options": ["*", "&", "->", "%"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which C function is used to compare two strings?",
+    "options": ["strcmp", "strcat", "strlen", "strcopy"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the correct syntax to declare an array of 10 integers?",
+    "options": ["int arr[10];", "array int arr(10);", "int arr = 10[];", "int arr[] = 10;"],
+    "answer_index": 0
+  }
+]

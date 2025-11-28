@@ -1,0 +1,97 @@
+[
+  {
+    "question": "What is the correct file extension for Python files?",
+    "options": [".py", ".python", ".pt", ".p"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword is used to create a function in Python?",
+    "options": ["def", "function", "fun", "lambda"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": ["tuple", "list", "set", "dict"],
+    "answer_index": 0
+  },
+  {
+    "question": "How do you start a comment in Python?",
+    "options": ["#", "//", "/*", "--"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method adds an item to the end of a list?",
+    "options": ["append", "add", "push", "insert"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the output of 3 // 2 in Python 3?",
+    "options": ["1", "1.5", "0", "2"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword is used to handle exceptions?",
+    "options": ["try", "catch", "except", "handle"],
+    "answer_index": 2
+  },
+  {
+    "question": "Which built-in function returns the length of an object?",
+    "options": ["len", "size", "count", "length"],
+    "answer_index": 0
+  },
+  {
+    "question": "What does PEP stand for in Python community?",
+    "options": [
+      "Python Enhancement Proposal",
+      "Python External Proposal",
+      "Program Enhancement Plan",
+      "Python Enhancement Process"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which statement is used to exit a loop prematurely?",
+    "options": ["break", "exit", "stop", "return"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword creates an anonymous function in Python?",
+    "options": ["lambda", "def", "func", "anonymous"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which built-in converts a value to an integer?",
+    "options": ["int", "float", "str", "toInt"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which statement is used to create a virtual environment with venv module?",
+    "options": ["python -m venv env", "venv create env", "virtualenv env", "create venv env"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which operator is used for exponentiation in Python?",
+    "options": ["**", "^", "pow()", "exp()"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword is used to create a generator function?",
+    "options": ["yield", "return", "generate", "yieldfrom"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which module provides JSON support in Python's standard library?",
+    "options": ["json", "simplejson", "ujson", "marshal"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method would you use to add an item at a specific index in a list?",
+    "options": ["insert", "append", "extend", "add"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which data structure uses key:value pairs in Python?",
+    "options": ["dict", "list", "tuple", "set"],
+    "answer_index": 0
+  }
+]

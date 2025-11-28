@@ -1,0 +1,709 @@
+#btn{
+    height:50px;
+    width:200px;
+    font-size:20px;
+    background-color:burlywood;
+    color:white;
+    text-decoration:none;
+    margin:690px 0px 0px 850px;
+    border-radius:10px;
+
+}
+#myvideo{
+    position:fixed;
+    z-index:-1;
+    min-width:100%;
+    min-height:100%;
+    right:0;
+    bottom:0;
+
+}
+#anchor{
+    text-decoration:none;
+    color:white;
+
+}
+#body{
+    background-image:url("bck2.avif");
+    
+}
+#quote{
+    font-size:200px;
+    animation:fadeInout 3s;
+    color:white;
+    
+    
+}
+@keyframes fadeInout {
+    0% {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+    50% {
+        opacity: 2;
+        transform: scale(1);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+}
+#div{
+    text-align:center;
+    
+
+}
+#btn2{
+    height:70px;
+    width:200px;
+    border-radius:10px;
+    background-color:rgb(89, 130, 171);
+    color:white;
+    font-size:20px;
+    font-family:Opera;
+
+}
+.div2{
+    margin:10px 10px 10px 800px;
+}
+#body3 {
+    background-image: url("bck3.webp");
+    background-size: cover;
+    background-position: 0% 0%;
+    background-repeat: no-repeat;
+    animation: bgScroll 20s linear infinite;
+}
+
+@keyframes bgScroll {
+    from {
+        background-position: 0% 0%;
+    }
+    to {
+        background-position: 17% 17%;
+    }
+}
+
+
+
+
+#div3{
+    background-color:white;
+    height:500px;
+    width:40%;
+    margin:227px 10px 10px 550px;
+    border-radius:30px;
+    box-shadow:2px 2px 2px 2px;
+    animation:fadeInout 3s;
+}
+@keyframes fadeInout {
+    0% {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+    50% {
+        opacity: 2;
+        transform: scale(1);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(0.7);
+    }
+}
+#username{
+    margin:30px 20px 20px 240px;
+    
+}
+#pwd{
+    margin:30px 20px 20px 240px;
+
+}
+#input1{
+    border-radius:20px;
+    height:50px;
+    width:280px;
+    font-size:20px;
+}
+#input2{
+    border-radius:20px;
+    height:50px;
+    width:280px;
+    font-size:20px;
+}
+#log{
+    color:black;
+    height:50px;
+    width:60px;
+    font-size:40px;
+    margin:-50px 10px 10px 320px;
+
+}
+#ssbtn{
+    margin:20px 10px 10px 300px;
+    height:50px;
+    width:170px;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+    font-size:20px;
+    
+}
+#submit{
+    height:50px;
+    width:280px;
+    border-radius:20px;
+    font-size:20px;
+    margin:100px;
+}
+#nr{
+    text-align:center;
+    color:slategray;
+    font-size:20px;
+    margin:70px 0px 0px 0px;
+    font-size:20px;
+}
+#na{
+    text-align:center;
+    text-decoration:none;
+    color:green;
+    font-size:20px;
+}
+
+#four{
+    background-image:url("bck6.webp");
+    background-size: cover;       
+    background-position: contain; 
+    background-repeat: no-repeat;
+}
+
+#form{
+    background-color:slategrey;
+    height:70%;
+    width:30%;
+    margin:240px 20px 20px 230px;
+    border-radius:30%;
+    box-shadow:20px;
+}
+
+#n{
+    margin:20px 20px 20px 20px;
+}
+#name{
+    border-radius:20px;
+    margin:20px 20px 20px 160px;
+    width:350px;
+    height:40px;
+    font-size:20px;
+    border:0px;
+}
+#lname{
+    border-radius:20px;
+    margin:20px 20px 20px 180px;
+    width:350px;
+    height:40px;
+    font-size:20px;
+    border:0px;
+
+}
+#email{
+    border-radius:20px;
+    margin:20px 20px 20px 180px;
+    width:350px;
+    height:40px;
+    font-size:20px;
+    border:0px;
+
+
+}
+#phone{
+    border-radius:20px;
+    margin:20px 20px 20px 180px;
+    width:350px;
+    height:40px;
+    font-size:20px;
+    border:0px;
+
+}
+#password{
+    border-radius:20px;
+    margin:20px 20px 20px 180px;
+    width:350px;
+    height:40px;
+    font-size:20px;
+    border:0px;
+
+}
+#cpassword{
+    border-radius:20px;
+    margin:20px 20px 20px 180px;
+    width:350px;
+    height:40px;
+    font-size:20px;
+    border:0px;
+    
+}
+#create{
+    border-radius:30px;
+    margin:20px 20px 20px 180px;
+    width:350px;
+    height:55px;
+    font-size:20px;
+    border:0px;
+    background-color:black;
+    color:grey;
+    
+}
+
+#test{
+    background-image:url("create test.jpg");
+    height:100px;
+    width:200px;
+    background-size:120px;
+    background-repeat:no-repeat;
+    background-color:white;
+    background-position:center;
+    border-radius:20px;
+}
+
+#gif{
+    margin:250px 10px 10px 600px;
+}
+
+#profile{
+    height:80px;
+    width:80px;
+    background-color:grey;
+}
+#pro{
+    height:80px;
+    width:80px;
+    margin:0px 0px 0px 1810px;
+}
+#band{
+    background-color:grey;
+    border-radius:20px;
+    height:80px;
+    margin:-95px 0px 0px -8px;
+    position:fixed;
+    width:100%;
+    overflow:hidden;
+}
+
+#loader{
+    #loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0.9);
+    display: none;   /* hidden initially */
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+}
+#fbtn{
+    background-image:url("profile.png");
+    height:80px;
+    width:80px;
+    float:right;
+    border:none;
+    background-color:grey;
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    border-radius:20px;
+    display:flex;
+    align-items:right;
+
+}
+button:hover{
+        cursor:pointer;
+    }
+#obtn{
+    background-image:url("options.png");
+    height:80px;
+    width:80px;
+    margin:0px 0px 0px 10px;
+    border:none;
+    background-color:gray;
+    background-position:center;
+    background-size:cover;
+    background-repeat:no-repeat;
+    border-radius:20px;
+    float:left;
+    z-index:-1;
+    display:flex;
+    align-items:left;
+}
+
+
+
+#se{
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:8px 150px 0px 0px;
+    font-size:50px;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex:1;
+    font-family:"lucida handwritting";
+    animation:blink 3s infinite;
+}
+
+@keyframes blink{
+  0% {
+    opacity: 1; /* Fully visible at the start */
+  }
+  50% {
+    opacity: 0; /* Fully hidden halfway through the animation */
+  }
+  100% {
+    opacity: 1; /* Fully visible again at the end */
+  }
+}
+
+#main{
+    background-color:#EFF1F3;
+    border-radius:20px;
+    
+}
+
+#slideshowcontainer{
+    z-index:-1;
+    margin:100px 0px 0px 0px;
+    background-color:black;
+    height:400px;
+    width:100%;
+    border-radius:20px;
+    overflow:hidden;
+    position:relative;
+}
+
+.simg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.slide {
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.fade {
+    animation: fadeEffect 1s;
+}
+
+@keyframes fadeEffect {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+.simg2{
+    width:280px;
+    height:290px;
+    object-fit:cover;
+    margin:80px 100px 100px 800px;
+}
+
+#createtest{
+    height:250px;
+    width:250px;
+    background-image:url("create test.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    border-radius:20px;
+    border:none;
+    margin:106px 10px 10px 400px;
+    background-color:white;
+}
+#ct{
+    margin:-10px 10px 10px 430px;
+    font-size:40px;
+}
+#notes{
+    height:250px;
+    width:250px;
+    background-image:url("notes.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    border-radius:20px;
+    border:none;
+    margin:-315px 0px 0px 1100px;
+    position:absolute;
+}
+#nt{
+    margin:-60px 10px 10px 1175px;
+    font-size:40px;
+}
+
+#topic{
+    background-color:grey;
+    border-radius:20px;
+    height:80px;
+    width:100%;
+    position:fixed;
+    overflow:hidden;
+    font-size:40px;
+    color:white;
+    margin:-82px 0px 0px -9px;
+}
+#tpc{
+    margin:10px 0px 0px 800px;
+    animation:blink 3s infinite;
+}
+@keyframes blink{
+  0% {
+    opacity: 1; /* Fully visible at the start */
+  }
+  50% {
+    opacity: 0; /* Fully hidden halfway through the animation */
+  }
+  100% {
+    opacity: 1; /* Fully visible again at the end */
+  }
+}
+
+#sbtn{
+    display:flex;
+    z-index:-1;
+    margin:-79px 10px 10px 1835px;
+    background-image:url("profile.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    height:80px;
+    width:80px;
+    background-color:grey;
+    border-radius:20px;
+    border:none;
+}
+#mbtn{
+    display:flex;
+    z-index:-1;
+    margin:-92px 10px 10px 10px;
+    background-image:url("options.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    height:80px;
+    width:80px;
+    background-color:grey;
+    border-radius:20px;
+    border:none;
+}
+#html{
+    height:120px;
+    width:120px;
+    margin:100px 0px 0px 550px;
+    border-radius:20px;
+    background-image:url("img4.webp");
+    background-size:cover;
+    background-position:center;
+
+}
+#optionsdiv{
+    height:850px;
+    width:100%;
+    margin:90px 0px 0px 0px;
+    border-radius:20px;
+
+}
+#s1{
+    margin:0px 0px 0px 580px;
+}
+#css{
+    height:120px;
+    width:120px;
+    background-image:url("img5.png");
+    background-size:cover;
+    background-position:center;
+    border-radius:20px;
+    display:flex;
+    margin:-142px 0px 0px 850px;
+}
+#s2{
+    margin:0px 0px 0px 890px;
+}
+#js{
+    height:120px;
+    width:120px;
+    background-image:url("img6.png");
+    background-size:cover;
+    background-position:center;
+    border-radius:20px;
+    display:flex;
+    margin:-142px 0px 0px 1150px;
+}
+#s3{
+    margin:0px 0px 0px 1166px;
+}
+
+#python{
+    height:120px;
+    width:120px;
+    background-image:url("img3.png");
+    background-size:cover;
+    background-position:center;
+    border-radius:20px;
+    display:flex;
+    margin:100px 0px 0px 550px;
+}
+#s4{
+    margin:0px 0px 0px 582px;
+}
+
+#mysql{
+    height:120px;
+    width:120px;
+    background-image:url("img7.png");
+    background-size:cover;
+    background-position:center;
+    border-radius:20px;
+    display:flex;
+    margin:-145px 0px 0px 850px;
+}
+#s5{
+    margin:0px 0px 0px 885px;
+}
+
+#c{
+    height:120px;
+    width:120px;
+    background-image:url("img8.png");
+    background-size:cover;
+    background-position:center;
+    border-radius:20px;
+    display:flex;
+    margin:-145px 0px 0px 1150px;
+}
+#s6{
+    margin:0px 0px 0px 1200px;
+}
+#hello{
+    background-color:black;
+}
+
+
+#seven {
+    background-color:black;
+     
+}
+
+#try{
+    color:white;
+    font-size:80px;
+    margin:0px 0px 0px 100px;
+}
+#try2{
+    color:white;
+    font-size:80px;
+     margin:0px 0px 0px 100px;
+}
+#radio{
+    height:50px;
+    width:50px;
+}
+
+#t1{
+    background-color:grey;
+    height:100px;
+    width:100%;
+    border-radius:40px;
+    color:white;
+    text-align:center;
+    margin:-35px 0px 0px 0px;
+}
+#sub{
+    font-size:40px;
+    animation:blink 3s infinite;
+    margin:45px 0px 0px 0px;
+}
+@keyframes blink{
+  0% {
+    opacity: 1; /* Fully visible at the start */
+  }
+  50% {
+    opacity: 0; /* Fully hidden halfway through the animation */
+  }
+  100% {
+    opacity: 1; /* Fully visible again at the end */
+  }
+}
+
+#previous{
+    background-color: #954535;
+    height: 100px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+
+    position: fixed;
+    bottom: 40px;       /* Always bottom */
+    left: 40px;        /* Always left corner */
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 999;        /* Button always visible */
+    border: none;
+}
+
+#next {
+    background-color: #954535;
+    height: 100px;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    border-radius: 50px;
+
+    position: fixed;
+    bottom: 40px;       /* Always bottom */
+    right: 40px;        /* Always right corner */
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    z-index: 999;        /* Button always visible */
+    border: none;
+}
+
+#finalbody{
+    background-color:grey;
+    color:white;
+}
+#finalquote1{
+    margin:200px 10px 10px 550px;
+    font-size:50px;
+}
+#finalquote2{
+    margin:200px 10px 10px 780px;
+    font-size:50px;
+    font-family:"Arial";
+    animation:blink 3s infinite;
+}
+
+@keyframes blink{
+  0% {
+    opacity: 1; /* Fully visible at the start */
+  }
+  50% {
+    opacity: 0; /* Fully hidden halfway through the animation */
+  }
+  100% {
+    opacity: 1; /* Fully visible again at the end */
+  }
+}

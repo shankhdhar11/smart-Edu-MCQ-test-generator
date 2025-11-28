@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Which operator is used to assign a value to a variable in JavaScript?",
+    "options": ["=", "==", "===", "=>"],
+    "answer_index": 0
+  },
+  {
+    "question": "How do you write a comment in JavaScript?",
+    "options": ["// single-line", "<!-- -->", "/* */", "##"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method converts a JSON string into a JavaScript object?",
+    "options": ["JSON.parse()", "JSON.stringify()", "JSON.toObject()", "JSON.decode()"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword is used to define a constant in JavaScript?",
+    "options": ["const", "let", "var", "static"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is the output type of typeof null in JavaScript?",
+    "options": ["object", "null", "undefined", "number"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which function is used to schedule a function call after a delay?",
+    "options": ["setTimeout", "setInterval", "delay", "sleep"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which symbol is used to denote template literals?",
+    "options": ["` (backtick)", "' (single quote)", "\" (double quote)", "~ (tilde)"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method adds an element to the end of an array?",
+    "options": ["push", "pop", "shift", "unshift"],
+    "answer_index": 0
+  },
+  {
+    "question": "What does NaN stand for?",
+    "options": ["Not-a-Number", "Null-and-Number", "No-a-Number", "Not-available Number"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which event occurs when the user clicks on an element?",
+    "options": ["click", "hover", "change", "submit"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method converts a JavaScript object to a JSON string?",
+    "options": ["JSON.stringify()", "JSON.parse()", "toString()", "Object.toJSON()"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which built-in method returns the index of the first occurrence of a specified value in a string?",
+    "options": ["indexOf", "search", "find", "includes"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which symbol is used for arrow functions in JavaScript?",
+    "options": ["=>", "->", "=>=", ":=>"],
+    "answer_index": 0
+  },
+  {
+    "question": "What is 'this' keyword in JavaScript generally refer to?",
+    "options": ["The object that owns the function", "The global object always", "The function itself", "Undefined"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which promise method is used to handle successful resolution?",
+    "options": ["then", "catch", "finally", "resolve"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which array method creates a new array with the results of calling a provided function on every element?",
+    "options": ["map", "forEach", "filter", "reduce"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword is used to define a class in ES6 JavaScript?",
+    "options": ["class", "function", "object", "struct"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which keyword declares a block-scoped variable in JavaScript?",
+    "options": ["let", "var", "const", "static"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method removes the last element from an array?",
+    "options": ["pop", "push", "shift", "unshift"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which operator is used to compare both value and type?",
+    "options": ["===", "==", "=", "!="],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method can be used to round a number to the nearest integer?",
+    "options": ["Math.round()", "Math.floor()", "Math.ceil()", "Math.random()"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method is used to add an element to the beginning of an array?",
+    "options": ["unshift", "shift", "push", "pop"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method creates a shallow copy of a portion of an array?",
+    "options": ["slice", "splice", "split", "join"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method removes the first element from an array?",
+    "options": ["shift", "unshift", "pop", "push"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which method checks if an array includes a certain value?",
+    "options": ["includes", "indexOf", "find", "map"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which object is used to store key-value pairs in JavaScript?",
+    "options": ["Object", "Array", "Set", "Map"],
+    "answer_index": 0
+  }
+]
