@@ -68,7 +68,8 @@ next.addEventListener("click", () => {
   index++;
 
   if (index === 10) {
-    calcscore();
+   calcscore();
+    window.location.href="finalpage.html";
     return;
   }
 
@@ -102,6 +103,7 @@ function calcscore(){
   }
   alert("your score is:"+score+"/10");
 }
+
 
 
 
