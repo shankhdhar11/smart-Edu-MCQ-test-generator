@@ -600,12 +600,12 @@ button:hover{
 
 #try{
     color:white;
-    font-size:80px;
+    font-size:60px;
     margin:0px 0px 0px 100px;
 }
 #try2{
     color:white;
-    font-size:80px;
+    font-size:60px;
      margin:0px 0px 0px 100px;
 }
 #radio{
@@ -707,3 +707,4 @@ button:hover{
     opacity: 1; /* Fully visible again at the end */
   }
 }
+
