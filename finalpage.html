@@ -6,9 +6,17 @@
         <div id="finalresult">
             <h1 id="finalquote1">Thank you for choosing Smart Edu</h1>
             <h2 id="finalquote2">Keep Shining</h2>
+            <p>Your score is=<div id="res"></div>/10</p>
 
         </div>
+        <script>
+            const urlparam=new URLSearchParams("window.location.search");
+            const score= urlparams.get("score");
+            const result=document.getElementById("result");
+            result.innerText=score;
+        </script>
     
     
     </body>
+
 </html>
