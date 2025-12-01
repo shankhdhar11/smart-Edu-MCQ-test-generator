@@ -102,8 +102,10 @@ function calcscore(){
     }
   }
   alert("your score is" +score+"/10");
+  window.location.href="finalpage.html?score="+score
   
 }
+
 
 
 
